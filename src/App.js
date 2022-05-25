@@ -12,7 +12,12 @@ function App() {
           <Dictionary />
         </main>
         <footer>
-          <small>This was coded by Leslie Nesbit and is open-sourced</small>
+          <small>
+            This was coded by Leslie Nesbit and is{" "}
+            <a href="https://github.com/LeelooDawn/dictionary-project">
+              open-sourced
+            </a>{" "}
+          </small>
         </footer>
       </div>
     </div>
