@@ -9,7 +9,7 @@ function App() {
           <strong>The Dictionary</strong>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="Hello" />
         </main>
         <footer>
           <small>
