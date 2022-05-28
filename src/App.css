@@ -4,10 +4,13 @@ body {
 
 .App-header {
   margin: 30px 0;
-  font-size: 35px;
   text-align: center;
 }
 
+.App-header h1 {
+  color: #735528;
+  font-weight: bold;
+}
 .App-footer {
   margin: 30px 0;
   text-align: center;

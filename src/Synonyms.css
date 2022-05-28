@@ -1,0 +1,16 @@
+.Synonyms {
+  margin: 10px 0 0;
+  padding: 0;
+}
+
+.Synonyms li {
+  display: inline-block;
+  padding-right: 10px;
+  font-size: 14px;
+  color: #347348;
+  font-style: italic;
+}
+
+.Synonyms span {
+  font-weight: bold;
+}
