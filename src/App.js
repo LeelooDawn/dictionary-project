@@ -6,12 +6,12 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <strong>The Dictionary</strong>
+          <h1>The Dictionary</h1>
         </header>
         <main>
           <Dictionary defaultKeyword="Hello" />
         </main>
-        <footer>
+        <footer className="App-footer">
           <small>
             This was coded by Leslie Nesbit and is{" "}
             <a href="https://github.com/LeelooDawn/dictionary-project">
