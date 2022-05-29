@@ -19,3 +19,8 @@
   font-style: italic;
   color: #1f4059;
 }
+
+.Dictionary .question {
+  color: #1f4059;
+  font-weight: bold;
+}
